@@ -1,0 +1,2 @@
+# Add dependencies if required, for this simple example, keep it empty or include:
+pytest
